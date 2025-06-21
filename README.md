@@ -9,7 +9,7 @@ Build and deployment status badges will be added soon.
 
 Installation  
 Clone the repository:  
-git clone https://github.com/Amratef0/Vogue-Wave-E-commerce-Website-.git
+git clone https://github.com/Amratef0/Vogue-Wave-Ecommerce-Website.git
 
 Open the solution in Visual Studio.  
 Restore NuGet packages.  
